@@ -1,2 +1,4 @@
 HI from hipster
 hello from hipster
+bye from hipster
+Hello again from hipster
